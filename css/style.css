@@ -64,7 +64,7 @@ h1{
 }
 
 p{
-    color: hsla(0,0,100%,.75);
+    color: hsla(0,0%,100%,.75);
     margin-bottom: 1.8rem;
     line-height: 1.6;
 }
@@ -77,8 +77,8 @@ button{
     border: 2px solid #fff;
 }
 
-h2, button{
-    color: hsl(0,0,95%);
+h1, button{
+    color: hsl(0,0%,95%);
 }
 
 main section button:hover{
