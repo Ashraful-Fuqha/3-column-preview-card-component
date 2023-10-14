@@ -94,7 +94,7 @@ h2, button{
 
 @media only screen and (min-width:376px){
     main{
-        width: 80vw;
+        width: 65vw;
         display: grid;
         grid-template-columns: repeat(3,minmax(auto,20rem));
         border-radius: .7rem;
